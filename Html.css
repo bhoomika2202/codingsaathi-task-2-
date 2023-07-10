@@ -1,1 +1,64 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    
+  <title>Tribute to Manushi Chillar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2;
+    }
+    
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #ffffff;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+    
+    h1 {
+      text-align: center;
+      color: #333333;
+    }
+    
+    p {
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+    
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 20px auto;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    }
+  </style>
+</head>
+<body>
+
+    <a href="mworld.jpg" download>
+        <img src="C:\Users\Bhoomika\Downloads\mworld.jpg" width="400" height="450" alt="Image">
+        </a>
+  <div class="container">
+    <h1>Tribute to Manushi Chillar</h1>
+    <img src="manushi-chillar.jpg" alt="Manushi Chillar">
+    <p>Manushi Chillar is an Indian model and beauty queen who was crowned Miss World 2017. Born on May 14, 1997, in Haryana, India, she became the sixth Indian woman to win the prestigious title.</p>
+    
+    <p>What makes Manushi Chillar truly inspiring is not just her beauty, but also her intelligence and dedication. She is a medical student at Bhagat Phool Singh Government Medical College for Women and has a deep passion for healthcare and social work.</p>
+    
+    <p>During her reign as Miss World, Manushi Chillar worked tirelessly to raise awareness about important issues such as menstrual hygiene and women's empowerment. She used her platform to make a positive impact and inspire young women around the world.</p>
+    
+    <p>Manushi Chillar's beauty, grace, and commitment to making a difference in the world make her a true role model. Her journey is an inspiration to many, proving that with hard work and determination, anything is possible.</p>
+    
+    <p>Let us celebrate the achievements of this remarkable woman and continue to be inspired by her passion and dedication.</p>
+  </div>
+  <link rel="stylesheet" href="style.css">
+  
+</body>
+</html>
